@@ -1,4 +1,4 @@
-# pub-sub
+# pub-sub using multithreading with no external library.
 problems:
 it will break if you try to break the system, it's designed for educational purpose only.
 
